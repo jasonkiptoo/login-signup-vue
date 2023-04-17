@@ -8,7 +8,7 @@
     <h2 class="title">Login</h2>
 
     <div class="container-input">
-      <input type="text" class="login-input" placeholder="Username" />
+      <input type="email" class="login-input" placeholder="Email" />
     </div>
     <div class="conatiner-input">
       <input type="password" class="login-input" placeholder="********" />

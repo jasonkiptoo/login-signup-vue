@@ -7,12 +7,13 @@
     />
     <h2 class="title">Create an account</h2>
 <div class="container-input">
-      <input type="text" class="login-input" placeholder="Username" />
-    </div>
-    <div class="container-input">
       <input type="email" class="login-input" placeholder="Email" />
     </div>
     <div class="container-input">
+      <input type="password" class="login-input" placeholder="*********" />
+    </div>
+    <div class="container-input">
+      <font-awesome-icon icon="fa-regular fa-eye-slash" />
       <input type="password" class="login-input" placeholder="********" />
     </div>
    
